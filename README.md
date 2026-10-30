@@ -9,9 +9,9 @@
 
 ### `while (learning) { keep_building(); }`
 
-*An aspiring developer navigating the world of code.*
+*An aspiring programmer navigating the world of code.*
 
-☾ 1337 Student · C Programming · Algorithms · Cybersecurity
+☾ 1337 Student · C Programming · Algorithms 
 
 [![GitHub](https://img.shields.io/badge/GitHub-171522?style=flat-square&logo=github&logoColor=B9A7D9)](https://github.com/)
 
